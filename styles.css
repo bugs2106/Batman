@@ -1,0 +1,155 @@
+
+body{
+  margin-left: 250px;
+      width: 1103px;
+
+}
+
+
+.second-div {
+  float: right;
+}
+
+.first-div {
+  float: left;
+}
+
+.main_div {
+  height: 250px;
+  width: 855px;
+}
+
+.img-div {
+  width: 81%;
+  margin-bottom: 5%;
+}
+
+.bruce {
+  float: left;
+  margin-right: 10px;
+  overflow: auto;
+  height: 230px;
+  width: 230px;
+}
+
+.background-img {
+  background-image: url("img/bat_cover.jpg");
+  height: 350px;
+  padding-top: 50px;
+  color: #fff;
+  margin-top: 25px;
+  width: 80%;
+}
+
+.content {
+  background-color: rgba(0, 0, 0, 0.7);
+  max-width: 450px;
+  padding: 30px 20px;
+  margin-top: 50px;
+}
+
+#movies {
+  width: 95%;
+  height: 600px;
+
+}
+
+.thumbnail {
+  float: left;
+  text-align: center;
+  margin-right: 100px;
+  margin-top: 40px;
+  border-style: ridge;
+  border-radius: 3px;
+  padding: 3px;
+  padding-bottom: 0;
+  overflow: auto;
+}
+/*Table*/
+table{
+  border-style: solid;
+  width: 80%;
+  border-width: 1px;
+  border-collapse: collapse;
+
+}
+td,th{
+padding:15px;
+border-width: 1px;
+border-style: solid;
+border-color:#a4a4a4;
+height: 30px;
+
+
+}
+
+th{
+
+  background-color: #ececec;
+}
+
+/*Nav Bar */
+
+nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.logo{
+  float:left;
+
+}
+
+.navlistanchor{
+  display: block;
+  color: #666;
+  padding:14px 16px;
+  text-decoration: none;
+  float: right;
+}
+
+
+#header{
+
+border-bottom: 1px solid;
+width: 883px;
+height: 77px;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
+.BatmanImg{
+  width:110px;
+}
+
+/*subscription*/
+.subscribe{
+  border: none;
+
+  background-color: #26211f;
+
+  color: white;
+
+  font-size: 23px;
+  margin: 4px -6px;
+
+
+
+padding-left: 20px;
+padding-right: 0px;
+padding-top: 9px;
+padding-bottom: 13px;
+width: 127px;
+}
+
+.input_subscribe{
+
+    padding: 14px 70px;
+
+    font-size: 15px;
+
+    margin-bottom: 30px;
+    width: 205px;
+margin-left: 168px;
+}
