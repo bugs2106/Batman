@@ -33,7 +33,7 @@ body{
 }
 
 .background-img {
-  background-image: url("img/bat_cover.jpg");
+  background-image: url("bat_cover.jpg");
   height: 350px;
   padding-top: 50px;
   color: #fff;
@@ -129,7 +129,7 @@ padding-bottom: 0px;
 
   background-color: #26211f;
 
-  color: white;
+  color: #FFFFFF;
 
   font-size: 23px;
   margin: 4px -6px;
